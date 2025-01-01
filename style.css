@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Noto Sans", serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight {
+    color: #ffa500;
+}
+.half-width {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 20px;
+}
